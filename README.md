@@ -1,4 +1,4 @@
-# Guarderia
+# Guarderia  GRUPO 2
 Integrantes:
 Huamán López Ronny Ibsen                      122243  
 Jara Quispe Luis Manuel                       110595  
